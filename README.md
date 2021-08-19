@@ -1,2 +1,2 @@
 # java-programs
-smaal java programs
+small java programs
